@@ -78,3 +78,7 @@ header h1{
 a{
     color: #666;
 }
+footer{
+    text-align: center;
+    font-size: 80%;
+}
